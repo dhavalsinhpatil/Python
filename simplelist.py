@@ -1,6 +1,8 @@
-#PYTHON ARRAY PROGRAM 
+#PYTHON List PROGRAM 
 # Input : Size =5  (1,2,3,4,5)
 # Entered Data is : [1, 2, 3, 4, 5]
+#Code By : Dhavalsinh Patil
+
 
 def main():
     size=0
