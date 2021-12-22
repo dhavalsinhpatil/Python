@@ -8,6 +8,9 @@
 # 1 2 3 4 5 
 ##########################################
 
+
+#Code By : Dhavalsinh Patil
+
 def Pattern(iValue1):
     for i in range(iValue1):
          for j in range(i+1):
