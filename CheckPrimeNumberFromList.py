@@ -1,3 +1,5 @@
+#Code By : Dhavalsinh Patil
+
 def ChkPrime(List):
     for i in range(0,len(List)):
         No= List[i]
