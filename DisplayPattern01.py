@@ -7,6 +7,10 @@
  # * * 
  # *
  #####################################################################
+ 
+ #Code By : Dhavalsinh Patil
+ 
+ 
 def Pattern(value):
     for i in range(value,0,-1):
         for j in range(0,i):
